@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: slf4j-api-1.7.12.jar netty-3.10.5.Final.jar async-http-cli
+ ent-1.9.33.jar
+Main-Class: com.s29a.ProxyChecker.App
+
